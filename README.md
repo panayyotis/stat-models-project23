@@ -1,11 +1,11 @@
 # stat-models-project23
 
-Project 1 - Weather Forecasting
-Brief description of the dataset
+# Project 1 - Weather Forecasting
+## Brief description of the dataset
 
 This dataset provides training data on weather from 1st January 2013 to 31st December 2016. An additional testing set is available, enclosing the period 1st January 2017 to 31st March 2017, which corresponds to the forecast interval. There are 4 parameters describing weather, that are meantemp, humidity, wind_speed, and meanpressure.
 
-Project Steps
+## Project Steps
 
 The main aim of this project is to perform weather forecasting for the period January-March 2017. Following what has been seen during the lessons, a comprehensive pipeline should be devised, including:
 
