@@ -1,4 +1,4 @@
-# stat-models-project23
+# Statistical models for Data Sciense Project
 
 # Weather Forecasting Project
 ## Brief description of the dataset
