@@ -1,4 +1,4 @@
-# Statistical models for Data Sciense Project
+# Statistical models for Data Science Project
 
 # Weather Forecasting 
 ## Brief description of the dataset
